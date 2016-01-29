@@ -30,3 +30,10 @@ Example:
 
 If you want to run the networkx implementation for an algorithm use the --nx option.
 
+### Contributors:
+
+Dimitris Nikolaou
+Helma Torkamaan
+Giorgos Komninos
+Alexandr Sapunji
+Stephen Gunashekar
